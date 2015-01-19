@@ -1,2 +1,4 @@
 # Rprog010
-R programming course 
+# R programming course Jan 2015
+cat("Hello World \n")
+
